@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+<svg role="img"  viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
     <!-- Single Green Leaf -->
     <circle cx="75" cy="175" r="50" fill="green" />
     <path d="M75,125 L75,225" stroke="lightgreen" stroke-width="2"/>
