@@ -37,17 +37,25 @@
         text-transform: uppercase;
     }
     a span h3 {
+        
            margin-top: 0px;
     margin-bottom: 0px;
         text-decoration: none;
         color: #e74c3c;
+       /* color: #4493f8;*/
         font-family: 'Oswald', sans-serif;
         font-weight: 300;
         font-size: 50px;
         text-transform: uppercase;
         line-height: 1;
     }
+    a span h3 b{
+        
+        color: rgb(128, 96, 211);
+    }
+    
     p {
+        
         display: block;
         margin-block-start: 1em;
         margin-block-end: 1em;
