@@ -72,6 +72,6 @@
 </style>
 
 <a href="">
-<img class="flower" src="./img/riski.svg">
+<img class="flower" src="https://raw.githubusercontent.com/andreyzebin/logo-design/master/img/riski.svg">
 <span><h3>риски<b>по</b></h3><p>nasturtium</p></span>
 </a>
