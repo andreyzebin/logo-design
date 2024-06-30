@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Lot';
+    src: url('Lot.eot');
+    src: local('Lot'),
+        url('Lot.eot?#iefix') format('embedded-opentype'),
+        url('Lot.woff2') format('woff2'),
+        url('Lot.woff') format('woff'),
+        url('Lot.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

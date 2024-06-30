@@ -1,11 +1,11 @@
-<link href="./img/style.css" rel="stylesheet" />
+<link href="logo/style.css" rel="stylesheet" />
 
 <a href="">
-<img class="flower" src="./img/riski.svg">
+<img class="flower" src="logo/riski.svg">
 <span><h3>риски<b>по</b></h3><p>nasturtium</p></span>
 </a>
 
-# Object
+# Object            
 
 - property1
 - property2
