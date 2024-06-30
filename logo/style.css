@@ -60,10 +60,11 @@
 
 .software {
 
-     font-family: 'fixedsys' !important;
-     font-weight: normal !important;
-     text-transform: none;
-     font-stretch: condensed;
+    color: #e74c3c;
+    font-family: 'fixedsys' !important;
+    font-weight: normal !important;
+    text-transform: none;
+    font-stretch: condensed;
 
 }
 
@@ -88,7 +89,8 @@
 
 .risks {
 
-    color: #e74c3c;
+    /* color: #e74c3c; */
+    color: green;
 
     font-family: 'tektur-semibold';
     font-weight: 300;
