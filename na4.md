@@ -70,10 +70,10 @@
 
 .nasturtium {
 
-    letter-spacing: 16px;
+    letter-spacing: 20px;
 
     font-family: 'Open Sans', sans-serif;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 600;
 
     color: #34495e;
@@ -94,7 +94,7 @@
 
     font-family: 'tektur-semibold';
     font-weight: 300;
-    font-size: 40px;
+    font-size: 49px;
 
     text-transform: uppercase;
     line-height: 1;
@@ -130,4 +130,14 @@ a:hover {
 
 # Object
 
+- property1
+- property2
+
 # Alerts
+
+| Item              | In Stock | Price |
+|:------------------|:---------|-------|
+| Python Hat        | True     | 23.99 |
+| SQL Hat           | True     | 23.99 |
+| Codecademy Tee    | False    | 19.99 |
+| Codecademy Hoodie | False    | 42.99 |
