@@ -60,7 +60,11 @@
 
 .software {
 
-    color: #e74c3c;
+    /* color: #e74c3c; */
+
+    color: green;
+
+
     font-family: 'fixedsys' !important;
     font-weight: normal !important;
     text-transform: none;
@@ -68,35 +72,16 @@
 
 }
 
-.nasturtium {
-
-    letter-spacing: 20px;
-
-    font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
-    font-weight: 600;
-
-    color: #34495e;
-    text-transform: uppercase;
-
-    display: block;
-    padding-left: 2px;
-
-    margin-top: 0px;
-    margin-bottom: 0px;
-
-}
-
 .risks {
 
     /* color: #e74c3c; */
-    color: green;
+    color: orange;
 
-    font-family: 'tektur-semibold';
+    font-family: 'fixedsys' !important;
     font-weight: 300;
     font-size: 49px;
 
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     line-height: 1;
     display: block;
 
